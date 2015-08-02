@@ -1,3 +1,4 @@
 # xssdemo
 A variant of XSS not protected against by Github.
-[Proof of Concept](http://ben.systems/PoC.html)
+<a href="http://ben.systems/PoC.html">Proof of Concept</a>
+
